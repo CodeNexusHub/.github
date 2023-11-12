@@ -2,7 +2,7 @@
 
 [English](README.md) | [Français](README.fr.md)
 
-![Logo de CodeNexusHub](lien_vers_votre_logo)
+![CodeNexusHub Logo](https://github.com/CodeNexusHub/.github/assets/100234404/b9bcd27b-f51e-4e46-a81f-e6a9870722dd)
 
 CodeNexusHub est bien plus qu'une simple organisation. C'est un lieu d'apprentissage, d'innovation et de création, où l'art de la programmation prend vie. Notre mission est de cultiver une communauté d'apprenants autodidactes, de créateurs de code et d'innovateurs technologiques qui repoussent les limites de la créativité numérique.
 
