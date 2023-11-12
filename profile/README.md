@@ -1,5 +1,5 @@
 ## Welcome to CodeNexusHub
-[English](README.md) | [Français](README.fr.md)
+[English](profile/README.md) | [Français](profile/README.fr.md)
 
 ![CodeNexusHub Logo](https://github.com/CodeNexusHub/.github/assets/100234404/b9bcd27b-f51e-4e46-a81f-e6a9870722dd)
 
